@@ -65,13 +65,38 @@ body {
 	position: absolute;
 	font-size: 39px;
 	color: #C1272D;
-	left: 15%;
+	left: 7%;
 	bottom: 48%;
 	z-index: 5;
 
 }
 .readme {
 	color: #ED1C24;
+	position: absolute;
+	font-size: 14px;
+	z-index: 4;
+	bottom: 7%;
+	right: 10%;
+}
+.mcvane_box {
+	background-color: #006837;
+	width: 50%;
+	height: 65%;
+	position: absolute;
+	bottom: 20%;
+	left: 20%;
+}
+.text2 {
+	position: absolute;
+	font-size: 39px;
+	color: #FFFF00;
+	transform: rotate(45deg);
+	left: 7%;
+	bottom: 48%;
+	z-index: 5;
+}
+.readme2 {
+	color: #39B54A;
 	position: absolute;
 	font-size: 14px;
 	z-index: 4;
