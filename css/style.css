@@ -35,7 +35,7 @@ body {
 	width: 68%;
 	position: absolute;
 	right: 5%;
-	bottom: 5%;
+	bottom: 4%;
 }
  .greentext {
  	color: #FCEE21;
@@ -75,6 +75,6 @@ body {
 	position: absolute;
 	font-size: 14px;
 	z-index: 4;
-	bottom: 6%;
+	bottom: 7%;
 	right: 10%;
 }
